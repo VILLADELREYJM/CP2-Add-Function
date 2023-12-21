@@ -8,3 +8,4 @@ Sub task:
 
 - [ ] the code can accept different type of input data types
 - [ ] (string/char) will only show the number and will disregard the string\char
+- [ ] state "Invalid" if no number inputed
