@@ -4,9 +4,19 @@ using namespace std;
 
 int Add2Values(int, int);
 
-int main(int argc, char** argv)
+int main()
 {
-    cout << "=" << Add2Values(argv[1], argv[2]);
+    int x, y;
+    cout
+        << "-- Add 2 Values --\n"
+        << "Enter x Values: ";
+    cin >> x;
+    cout << "\nEnter y Value: ";
+    cin >> y;
+
+    cout << "\n__________________\n";
+
+    cout << "= " << Add2Values(x, y);
 
     return 0;
 }
