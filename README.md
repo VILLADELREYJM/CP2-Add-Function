@@ -3,6 +3,10 @@
 Task:
 
 - [ ] complete the code which can accept 2 values
+- [ ] Final result must be like this
+      ...
+      __________
+      = 2
 
 Sub task:
 
